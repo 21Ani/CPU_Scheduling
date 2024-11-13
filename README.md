@@ -49,7 +49,7 @@ Select Scheduling Algorithm:
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/21Ani/CPU-Scheduling-Simulator.git
+   git clone https://github.com/21Ani/CPU_Scheduling.git
    ```
 
 2. Navigate to the project directory and compile the Java file:
